@@ -130,7 +130,6 @@ This will:
 2. Grant roles (SETTLER/KEEPER + backend signer)
 3. Initialize CelluxToken distribution
 4. Wire executors to StabilityFund and StabilityFund to VaultPool
-5. Save deployment addresses to `deployments/mantle-sepolia-latest.json`
 
 ### Deploy to Different Networks
 
